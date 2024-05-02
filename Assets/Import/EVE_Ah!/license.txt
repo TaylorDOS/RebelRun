@@ -1,0 +1,11 @@
+Model Information:
+* title:	EVE Ah!
+* source:	https://sketchfab.com/3d-models/eve-ah-5773b360ade74da89746317b345f7d8b
+* author:	treechai111 (https://sketchfab.com/treechai111)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "EVE Ah!" (https://sketchfab.com/3d-models/eve-ah-5773b360ade74da89746317b345f7d8b) by treechai111 (https://sketchfab.com/treechai111) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

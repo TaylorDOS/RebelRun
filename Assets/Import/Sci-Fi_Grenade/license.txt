@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sci-Fi Grenade
+* source:	https://sketchfab.com/3d-models/sci-fi-grenade-30bbb6b5239942a695fe2b6f6e320199
+* author:	GhostDev (https://sketchfab.com/GhostDevReal)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sci-Fi Grenade" (https://sketchfab.com/3d-models/sci-fi-grenade-30bbb6b5239942a695fe2b6f6e320199) by GhostDev (https://sketchfab.com/GhostDevReal) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

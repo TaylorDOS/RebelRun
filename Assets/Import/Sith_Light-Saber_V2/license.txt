@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sith Light-Saber V2
+* source:	https://sketchfab.com/3d-models/sith-light-saber-v2-f1b2f54c921843889ddc7cf1ac9104a4
+* author:	Billygaming14 (https://sketchfab.com/billybendt1)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sith Light-Saber V2" (https://sketchfab.com/3d-models/sith-light-saber-v2-f1b2f54c921843889ddc7cf1ac9104a4) by Billygaming14 (https://sketchfab.com/billybendt1) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mandolorian Helmet
+* source:	https://sketchfab.com/3d-models/mandolorian-helmet-81c2be002c9449aaa971834031c61e46
+* author:	Sage (https://sketchfab.com/Sage.Wilcox)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mandolorian Helmet" (https://sketchfab.com/3d-models/mandolorian-helmet-81c2be002c9449aaa971834031c61e46) by Sage (https://sketchfab.com/Sage.Wilcox) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
